@@ -1,0 +1,5 @@
+{
+  "tokenizer_class": "ByteTokenizer",
+  "vocab_size": 256,
+  "encoding": "utf-8"
+}
